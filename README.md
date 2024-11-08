@@ -2,7 +2,7 @@ This was a group project done for [STA304](https://utm.calendar.utoronto.ca/cour
 
 We were interested in how a students happiness relates to the time they spend on hobbies and studies.
 
-Though there is no way to objectively measure how happy someone is, we decided to just ask students to rate their happiness from 1 to 10.
+Though there is no way to objectively measure how happy someone is, we decided to ask students to rate their happiness from 1 to 10.
 
 You can view our full questionnaire in this repository. Among other things, we asked the students how much time they spend per week on their hobbies and studies.
 
