@@ -6,7 +6,7 @@ Though there is no way to objectively measure how happy someone is, we decided t
 
 You can view our full questionnaire in this repository. Among other things, we asked the students how much time they spend per week on their hobbies and studies.
 
-We used Simple Random Sampling to conduct our survey. Due to time constraints we were only able to sample 30 students. Our bound of error was 0.175.
+We used Simple Random Sampling to conduct our survey. Due to time constraints we were only able to sample 30 students. Our bound of error for one of our hypotheses was 0.175.
 
 To test whether the students self-rated happiness correlates with the time they spend on their hobbies or the time they spend on studies, we used the Kendall Rank Correlation Test; a correlation test designed for ordinal data (like rating Happiness from 1 to 10).
 
